@@ -1,0 +1,11 @@
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\bin\Debug\netcoreapp2.1\metaint_OOP_exs.deps.json
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\bin\Debug\netcoreapp2.1\metaint_OOP_exs.runtimeconfig.json
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\bin\Debug\netcoreapp2.1\metaint_OOP_exs.runtimeconfig.dev.json
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\bin\Debug\netcoreapp2.1\metaint_OOP_exs.dll
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\bin\Debug\netcoreapp2.1\metaint_OOP_exs.pdb
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\obj\Debug\netcoreapp2.1\metaint_OOP_exs.csprojAssemblyReference.cache
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\obj\Debug\netcoreapp2.1\metaint_OOP_exs.csproj.CoreCompileInputs.cache
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\obj\Debug\netcoreapp2.1\metaint_OOP_exs.AssemblyInfoInputs.cache
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\obj\Debug\netcoreapp2.1\metaint_OOP_exs.AssemblyInfo.cs
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\obj\Debug\netcoreapp2.1\metaint_OOP_exs.dll
+C:\CS_Train\metaint_OOP_exs\metaint_OOP_exs\obj\Debug\netcoreapp2.1\metaint_OOP_exs.pdb

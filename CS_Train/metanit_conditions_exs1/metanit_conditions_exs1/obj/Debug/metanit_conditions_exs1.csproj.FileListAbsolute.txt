@@ -1,0 +1,7 @@
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\bin\Debug\metanit_conditions_exs1.exe.config
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\bin\Debug\metanit_conditions_exs1.exe
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\bin\Debug\metanit_conditions_exs1.pdb
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\obj\Debug\metanit_conditions_exs1.csprojAssemblyReference.cache
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\obj\Debug\metanit_conditions_exs1.csproj.CoreCompileInputs.cache
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\obj\Debug\metanit_conditions_exs1.exe
+C:\CS_Train\metanit_conditions_exs1\metanit_conditions_exs1\obj\Debug\metanit_conditions_exs1.pdb

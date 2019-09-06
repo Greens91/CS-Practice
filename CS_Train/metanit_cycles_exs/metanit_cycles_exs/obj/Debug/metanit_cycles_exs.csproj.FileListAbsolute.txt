@@ -1,0 +1,7 @@
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\obj\Debug\metanit_cycles_exs.csprojAssemblyReference.cache
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\obj\Debug\metanit_cycles_exs.csproj.CoreCompileInputs.cache
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\bin\Debug\metanit_cycles_exs.exe.config
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\bin\Debug\metanit_cycles_exs.exe
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\bin\Debug\metanit_cycles_exs.pdb
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\obj\Debug\metanit_cycles_exs.exe
+C:\CS_Train\metanit_cycles_exs\metanit_cycles_exs\obj\Debug\metanit_cycles_exs.pdb
